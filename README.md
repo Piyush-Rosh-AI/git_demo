@@ -9,8 +9,7 @@ Usage:
 ```
 Replace the enclosed [] data with your credentials
 
-2)
-i)We can than initalise the repo if we are creating a new one.
+2)i)We can than initalise the repo if we are creating a new one.
 ```bash
 git init
 ```
